@@ -41,6 +41,10 @@ html{
     padding: 0 1rem;
     transition: all 200ms linear;
 }
+.navigation-wrap .nav-item:hover {
+    text-decoration: underline;
+    color: rgb(3, 3, 66);
+}
 .navbar-toggler:focus{
     outline: none;
     border: none;
